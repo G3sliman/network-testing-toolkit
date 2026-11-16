@@ -124,6 +124,40 @@ This project is intended for basic network diagnostics and educational purposes.
 - Improve report visualization and analysis.
 - Expand error handling and diagnostic capabilities.
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/01-main-menu.png)
+
+### IP Address Information
+
+![IP Information](screenshots/02-ip-information.png)
+
+### Network Interfaces
+
+![Network Interfaces](screenshots/03-network-interfaces.png)
+
+### Ping Testing
+
+![Ping Test](screenshots/04-ping-test.png)
+
+### DNS Lookup
+
+![DNS Lookup](screenshots/05-dns-lookup.png)
+
+### Traceroute
+
+![Traceroute](screenshots/06-traceroute.png)
+
+### TCP Port Testing
+
+![TCP Port Test](screenshots/07-tcp-port-test.png)
+
+### JSON Report Viewer
+
+![Report Viewer](screenshots/08-report-viewer.png)
+
 ## Author
 
 **G3sliman**
